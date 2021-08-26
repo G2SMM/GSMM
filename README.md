@@ -1,4 +1,4 @@
-# Graph-toSequence enabled multi-modal model
+# Graph-to-Sequence enabled multi-modal model
 
 PyTorch implementation of [GSMM]
 
