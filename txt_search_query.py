@@ -11,9 +11,13 @@ logging.basicConfig(level=logging.INFO, format="%(message)s")
 from tensorboardX import SummaryWriter
 
 import torch
+
+import models.jointemb as models
+import configs, data_loader 
+from modules import *
 from utils import normalize, similarity, sent2indexes
-from data_loader import load_dict, load_vecs
-import models, configs
+from data_loader import *
+
   
 codevecs, codebase = [], []
  
