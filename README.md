@@ -31,7 +31,8 @@ PyTorch implementation of [GSMM]
   The `/data` folder provides a small dummy dataset for quick deployment.  
   To train and test our model:
   
-  1) Download and unzip real dataset from [Google Drive]()
+  1) Download and unzip real dataset from [Google Drive](https://drive.google.com/file/d/1kyxeQdeVHLjigIF-mihEbfZGgP2UWGI8/view?usp=sharing
+)
   
   2) Replace each file in the `/data` folder with the corresponding real file. 
   
